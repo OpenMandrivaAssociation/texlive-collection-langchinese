@@ -5,8 +5,8 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-collection-langchinese
-Version:	20140621
-Release:	4
+Version:	20170903
+Release:	1
 Summary:	Chinese
 Group:		Publishing
 URL:		http://tug.org/texlive
