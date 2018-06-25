@@ -5,7 +5,7 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-collection-langchinese
-Version:	20170903
+Version:	20180410
 Release:	1
 Summary:	Chinese
 Group:		Publishing
