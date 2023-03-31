@@ -1,6 +1,6 @@
 Name:		texlive-collection-langchinese
 Version:	63995
-Release:	1
+Release:	2
 Summary:	Chinese
 Group:		Publishing
 URL:		http://tug.org/texlive
