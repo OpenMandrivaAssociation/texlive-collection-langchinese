@@ -1,5 +1,5 @@
 Name:		texlive-collection-langchinese
-Version:	70738
+Version:	72136
 Release:	1
 Summary:	Chinese
 Group:		Publishing
