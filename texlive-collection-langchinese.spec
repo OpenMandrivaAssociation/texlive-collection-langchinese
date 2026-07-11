@@ -11,8 +11,6 @@ License:	LPPL
 Source0:	https://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-langchinese.r%{tl_revision}.tar.xz
 BuildArch:	noarch
 BuildSystem:	texlive
-BuildRequires:	texlive-tlpkg
-%texlive_base_requires
 Requires:	texlive(arphic)
 Requires:	texlive(arphic-ttf)
 Requires:	texlive(asymptote-by-example-zh-cn)
